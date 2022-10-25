@@ -9,7 +9,7 @@ class Post
             "title" => "Judul Post Pertama",
             "slug" => "judul-post-pertama",
             "author" => "Andi Rahman",
-            "body" => "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam neque illum, ea officia vitae alias facere mollitia. Deleniti deserunt iusto, omnis enim numquam est ab? Dolorem debitis odit fugit, voluptatibus cum iure sunt, molestias, labore iste optio enim corporis facilis quidem possimus neque assumenda ipsum voluptate! Architecto ratione ut in suscipit. Dolorem, harum similique esse vel laudantium eos consequuntur consectetur sed delectus distinctio reiciendis voluptas atque quidem qui dignissimos molestiae quis quo ullam ipsam beatae impedit recusandae ut! Quas, veritatis?"
+            "body" => "Lorem ipsum dolora, sit amet consectetur adipisicing elit. Ipsam neque illum, ea officia vitae alias facere mollitia. Deleniti deserunt iusto, omnis enim numquam est ab? Dolorem debitis odit fugit, voluptatibus cum iure sunt, molestias, labore iste optio enim corporis facilis quidem possimus neque assumenda ipsum voluptate! Architecto ratione ut in suscipit. Dolorem, harum similique esse vel laudantium eos consequuntur consectetur sed delectus distinctio reiciendis voluptas atque quidem qui dignissimos molestiae quis quo ullam ipsam beatae impedit recusandae ut! Quas, veritatis?"
         ],
         [
             "title" => "Judul Post Kedua",
